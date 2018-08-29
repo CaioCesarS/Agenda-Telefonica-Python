@@ -7,4 +7,4 @@ Agenda telefônica simples desenvolvida em Python, no qual é possível:
  - Excluir todos os contatos da agenda;
  - Sair da aplicação.
 
-Para executar a aplicação, basta digitar no terminal <i>python main.py</i>
+Para executar a aplicação, basta digitar no terminal <i>python main.py</i> e tecle enter.

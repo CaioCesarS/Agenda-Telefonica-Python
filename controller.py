@@ -4,7 +4,6 @@ Agenda simples
 __author__ = 'Caio César'
 __license__ = 'MIT'
 __version__ = '0.0.1'
-__email__ = 'caio.c3sar@outlook.com'
 __status__ = 'Development'
 
 from telefone import Telefone

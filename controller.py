@@ -8,7 +8,7 @@ __status__ = 'Development'
 
 from telefone import Telefone
 
-class Controller:
+class Controller():
   def inserir(nome, telefone):
     return Telefone(nome, telefone)
 

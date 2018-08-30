@@ -6,7 +6,7 @@ __license__ = 'MIT'
 __version__ = '0.0.1'
 __status__ = 'Development'
 
-class Telefone:
+class Telefone():
   def __init__(self, nome, telefone):
     self.__nome = nome
     self.__telefone = telefone
